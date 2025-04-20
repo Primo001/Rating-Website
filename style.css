@@ -310,7 +310,7 @@ img.thank-you-icon {
 /* Desktop (1440px and larger) */
 @media (min-width: 1440px) {
   .main-container {
-    max-width: 40rem; /* 640px */
+    max-width: 28rem; /* 640px */
     padding: 4rem; /* 64px */
   }
 
